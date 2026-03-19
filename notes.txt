@@ -72,14 +72,29 @@ span --> inline container to group elements for styling
  
 div --> block container to group elements for styling
 
+List
 order list
 unorder list 
 
+Buttons
+
+Tables
+
+Forms
+
+Header, Main, Footer
 
 
+CSS 
 
 
+Inline css, Internal css, External css
 
+colors: name, rgb avlues[], hexa decimal, hsl values[]
+
+Font 
+
+Borders
 
 
 
