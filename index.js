@@ -233,6 +233,140 @@ let students = 30;
 //     }
 // }
 
+// let age = 10;
+
+// let message = age >= 18 ? "You can vote" : "You cannot vote";
+
+// console.log(message);
+
+// let time = 2;
+
+// let greeting = time < 12 ? "Good morning" : 
+// "good afternoon";
+
+// console.log(greeting);
+
+
+// let purchaseAmount = 50;
+
+// let discount = purchaseAmount >= 100 ? 10 : 0;
+
+// console.log(`Your total is ${purchaseAmount - purchaseAmount * (discount/100)}`);
+
+
+// if(age >= 18) {
+
+// } else {
+
+// }
+
+// let day = 67;
+
+// switch (day) {
+//     case 1:
+//         console.log("Today is monday");
+//         break;
+//     case 2:
+//         console.log("Today is Tuesday");
+//         break;
+//     case 3:
+//         console.log("Today is Wed");
+//         break;
+//     case 4:
+//         console.log("Today is Thur");
+//         break;
+//     case 5:
+//         console.log("Today is Fri");
+//         break;
+//     case 6:
+//         console.log("Today is sat");
+//         break;
+//     case 7:
+//         console.log("Today is sun");
+//         break;
+
+//     default:
+//         console.log("It is invalid");
+//         break;
+// }
+
+// let testScore = 56789;
+
+// let letterGrade;
+
+// switch (true) {
+//     case testScore <= 10 && testScore >= 30:
+//         letterGrade = "A";
+//         break;
+//     case testScore >= 80:
+//         letterGrade = "B";
+//         break;
+//     case testScore >= 70:
+//         letterGrade = "C";
+//         break;
+//     case testScore >= 90:
+//         letterGrade = "A";
+//         break;
+//     default:
+//         console.log("It is invalid");
+//         break;
+// }
+
+
+// console.log(letterGrade);
+
+//              012345  // length = 5 and 0 to n-1
+let username = "ganesh$kumar"; 
+
+// console.log(username.charAt(2));
+// console.log(username.indexOf("a"));
+// console.log(username.lastIndexOf("a"));
+// console.log(username.length);
+// username = username.trim();
+// console.log(username.toUpperCase());
+// console.log(username.toLowerCase());
+// username = username.repeat(7);
+// let result = username.startsWith(" ");
+// let result = username.endsWith(" ");
+// let result = username.includes("$");
+// let phoneNum = "91-25525-37373";
+// phoneNum = phoneNum.replaceAll("-", "/");
+// phoneNum = phoneNum.padStart(20, "0");
+// phoneNum = phoneNum.padEnd(20, "0");
+
+
+
+
+// console.log(phoneNum);
+
+
+// const fullName = "ganesh45678 kumarhjkl";
+
+// let firstName = fullName.slice(0, fullName.indexOf(" "));
+// let lastName = fullName.slice(fullName.indexOf(" ") + 1);
+
+// let firstChar = fullName.slice(0,1);
+// let lastChar = fullName.slice(-1);
+
+// let firstName = fullName.slice(0, 6);
+// let lastName = fullName.slice(7);
+
+// let firstChar = fullName.slice(0,1);
+// let lastChar = fullName.slice(-1);
+
+// console.log(firstName);
+// console.log(lastName);
+// console.log(firstChar);
+// console.log(lastChar);
+
+// ganeshkumar@gmail.com
+
+// username = ganeshkumar
+// address name = gmail
+
+
+
+
 
 
 

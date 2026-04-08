@@ -206,7 +206,22 @@ if else Statement
 else if statement 
 nested if statement or ladder statement 
 
-Checked 
+Checked Property 
+
+Ternary operator - a shortcut to if and else statements - which helos as to assign a varaiable bases on a condition
+
+condition ? codeIfTrue : codeIfFalse;
+
+
+Switches - can be efficent replacement to many else if statements
+
+
+
+String methods - allow as to manipulate and work with test (Strings)
+
+string slicing - create a substring from a portion of another string
+
+
 
 
 
